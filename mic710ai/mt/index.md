@@ -1,7 +1,7 @@
 # MIC-710AI IO 產線測試
 
 
-![](https://i.imgur.com/OM5kjyI.png)
+![IO testing items](https://github.com/advantechralph/documents/blob/master/mic710ai/mt/001.png?raw=true)
 
 ## 狀態資訊
 

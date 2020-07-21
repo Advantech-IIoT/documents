@@ -6,4 +6,4 @@ Index of MIC-710AI
 
 - [Recovery Mode](https://advantechralph.github.io/documents/mic710ai/recovery-mode/)
 
-
+- [產測](https://advantechralph.github.io/documents/mic710ai/mt/)

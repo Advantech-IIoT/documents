@@ -3,7 +3,24 @@
 
 ![IO testing items](https://github.com/advantechralph/documents/blob/master/mic710ai/mt/001.png?raw=true)
 
-## 狀態資訊
+## 產線程式說明
+
+- 485
+    - 測試之前COM_SW1的四個Switch全部切成ON，將兩台MIC-710AI對接，一台是NANO另一台是NX
+    - 安裝環境 sudo apt-get update && sudo apt-get install -y python3-pip && sudo pip3 install pyserial
+
+- GPIO 
+    - 執行 sudo ./gpio_test.sh
+
+- i211 
+    - 執行 sudo ./burn_i211_mac.sh 00d0c9f25017
+
+- HDD 
+    
+    - 在SATA 和 M.2都各連接一個SSD，在ineternl USB連接隨身碟，總共3個裝置
+    - 執行 sudo ./hdd test.sh
+
+## GPIO狀態資訊
 
 - sudo cat /sys/kernel/debug/tegra_gpio
 - cat /sys/kernel/debug/gpio

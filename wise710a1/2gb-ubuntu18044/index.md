@@ -42,7 +42,7 @@ sr1     11:1    1 1024M  0 rom
 
 In this example case, the SD card block device is `sdc`. 
 
-Then, enter the scripts sub-directory in package. 
+Then, enter the scripts sub-directory in this package. 
 
 ```
 $ ls
@@ -64,7 +64,7 @@ All data on /dev/sdc now will be destroyed! Continue? [y/n]
 
 Enter `y`, and wait for process done. 
 
-prompt example: 
+Process prompt: 
 ```
 partition start
 DISK SIZE - 15502147584 bytes

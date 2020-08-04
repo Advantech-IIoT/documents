@@ -1,4 +1,4 @@
-# WISE710A1 DDR3 2GB Ubuntu18.04 Home
+# WISE710A1 DDR3 2GB Ubuntu18.04
 
 ## Contents
 

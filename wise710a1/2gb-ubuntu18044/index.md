@@ -96,6 +96,7 @@ After process done, eject the SD card and insert it into WISE-710A1 2GB DDR3 dev
 
 Make sure the `SW2` switch on device, 1: ON, 2: OFF. 
 
+<img src="001.jpg" alt="SW2" width="20%" height="20%">
 
 
 

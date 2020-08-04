@@ -11,7 +11,7 @@
 
 ### Package: wise710a1_2g_ubuntu18044_20200804
 
-### Tree of package: 
+### Tree of this package: 
 
 ```
 wise710a1_2g_ubuntu18044_20200804

@@ -23,7 +23,7 @@ wise710a1_2g_ubuntu18044_20200804
 
 #### Host OS: Ubuntu 16.04 x86_64
 
-Insert SD Card and check which block device. 
+Insert SD Card into host PC and check which block device. 
 
 ```
 $ lsblk
@@ -40,7 +40,7 @@ sda      8:0    0  512G  0 disk
 sr1     11:1    1 1024M  0 rom  
 ```
 
-In this example, the SD card block device is `sdc`. 
+In this example case, the SD card block device is `sdc`. 
 
 Then, enter the scripts sub-directory in package. 
 

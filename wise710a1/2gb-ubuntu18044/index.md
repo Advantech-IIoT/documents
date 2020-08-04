@@ -1,10 +1,10 @@
 # WISE710A1 DDR3 2GB Ubuntu18.04
 
 ## Contents
-
+- [Quick Start](#quick-start)
 - [Image Package](#image-package)
   - [Write Image to SD Card](#write-image-to-sD-card)
-
+- [Switch SW2](#switch-sw2)
 ---
 
 ## Quick Start

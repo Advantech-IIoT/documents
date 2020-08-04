@@ -64,7 +64,7 @@ All data on /dev/sdc now will be destroyed! Continue? [y/n]
 
 Enter `y`, and wait for process done. 
 
-Process prompt: 
+#### Process prompt: 
 ```
 partition start
 DISK SIZE - 15502147584 bytes
@@ -96,7 +96,11 @@ After process done, eject the SD card and insert it into WISE-710A1 2GB DDR3 dev
 
 Make sure the `SW2` switch on device, 1: ON, 2: OFF. 
 
+##### Fig: Switch SW2
+
 <img src="001.jpg" alt="SW2" width="20%" height="20%">
+
+
 
 
 

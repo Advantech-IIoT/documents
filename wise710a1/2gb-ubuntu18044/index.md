@@ -7,6 +7,50 @@
 
 ---
 
+## Quick Start
+
+### Boot from SD card boot loader
+
+- SW2 switch on device, 1: OFF, 2: ON. (Boot from boot loader on SD card)
+
+- Insert SD card into host Ubuntu 16.04 PC 
+
+- Unpack image package, ex: wise710a1_2g_ubuntu18044_20200804.tar.gz
+
+- Run script in the image package as below: 
+
+  ```
+  $ cd wise710a1_2g_ubuntu18044_20200804
+  $ cd scripts
+  $ ./mksd_recovery-linux_boot-from-sd.sh /dev/sdc ubuntu18044
+  ```
+
+- Insert SD card into WISE710A1
+
+- Conenct RS232 cable between PC and WISE710A1. 
+
+- Open console terminal and set baud rate to 115200 8n1. 
+
+- Console login: root/123456
+
+- Write SPL image into SPI flash. 
+
+  On WISE710A1:
+  
+  ```
+  $ cd /mk_inand/scripts
+  $ ././mkspi-advboot.sh 
+  ```
+  
+- Write image into eMMC
+
+  ```
+  $ ./mkinand-linux.sh /dev/mmcblk0 ubuntu18044
+  ```
+
+- Power down and change SW2 to boot from SPI flash. (SW2: 1: ON, 2: OFF)
+
+
 ## Image Package
 
 ### Package: wise710a1_2g_ubuntu18044_20200804
@@ -63,6 +107,8 @@ or
 # WISE710A1 boots from SD card boot loader directly. 
 $ ./mksd_recovery-linux_boot-from-sd.sh /dev/sdc ubuntu18044
 ```
+
+**Note:** Please refer to quick start for updating SPL. 
 
 Follow the prompt to write image to SD card. 
 

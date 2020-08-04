@@ -53,7 +53,15 @@ $ cd scripts
 Run the write image script with SD card block device.
 
 ```
+# WISE710A1 boots from SPL on SPI flash and then load U-boot on SD card.
 $ ./mksd_recovery-linux.sh /dev/sdc ubuntu18044
+```
+
+or 
+
+```
+# WISE710A1 boots from SD card boot loader directly. 
+$ ./mksd_recovery-linux_boot-from-sd.sh /dev/sdc ubuntu18044
 ```
 
 Follow the prompt to write image to SD card. 
@@ -94,16 +102,14 @@ umount: /dev/sdc1: not mounted
 
 After process done, eject the SD card and insert it into WISE-710A1 2GB DDR3 device. 
 
-Make sure the `SW2` switch on device, 1: ON, 2: OFF. 
+## Switch SW2
 
-##### Fig: Switch SW2
+The `SW2` switch on device, 1: ON, 2: OFF. (Boot from SPL on SPI flash)
+
+The `SW2` switch on device, 1: OFF, 2: ON. (Boot from boot loader on SD card)
+
+### Fig: boot from SPL on SPI flash
 
 <img src="001.jpg" alt="SW2" width="20%" height="20%">
-
-
-
-
-
-
 
 

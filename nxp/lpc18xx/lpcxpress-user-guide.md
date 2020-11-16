@@ -2,12 +2,11 @@
 
 ## Contents
 - [Install IDE](#Install IDE)
-  - [start up key](#start up key)
-  - [Copy key](#Copy key)
-  - [Login account NXP.COM](#Login account NXP.COM)
+  - [start up key](#start-up-key)
+  - [Copy key](#Copy-key)
+  - [Login account NXP.COM](#Login-account-NXP.COM)
   - [Paste the KEY, and paste the KEY returned by the system to the IDE](#Paste the KEY, and paste the KEY returned by the system to the IDE)
   - [The following screen is displayed, the key activation is successful](#The following screen is displayed, the key activation is successful)
-  - [RS485](#RS485)
 - [install LPCScrypt v2.1.1 J-LINK Downloads](#install LPCScrypt v2.1.1 J-LINK Downloads)
 ---
 

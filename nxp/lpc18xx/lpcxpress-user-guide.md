@@ -14,19 +14,19 @@
 
 ## Login account NXP.COM 
 
-![](https://i.imgur.com/ApBNWdX.png)
+![](005.jpg)
 
 ## Paste the KEY, and paste the KEY returned by the system to the IDE
 
-![](https://i.imgur.com/SDRtBmM.png)
+![](006.jpg)
 
-![](https://i.imgur.com/GWfV58L.png)
+![](007.jpg)
 
-![](https://i.imgur.com/OM4iHWo.png)
+![](008.jpg)
 
 ### The following screen is displayed, the key activation is successful
 
-* ![](https://i.imgur.com/56OmHPW.png)
+![](009.jpg)
 
 ## install  [LPCScrypt v2.1.1 J-LINK Downloads](https://www.nxp.com/design/microcontrollers-developer-resources/lpc-microcontroller-utilities/lpcscrypt-v2-1-1:LPCSCRYPT)
 

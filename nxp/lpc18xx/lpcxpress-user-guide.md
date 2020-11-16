@@ -2,8 +2,8 @@
 
 ## Contents
 - [Install IDE](#Install-IDE)
-  - [for linux](#for-linux)
-  - [for windows](#for-windows)
+  - [IDE install linux](#for-linux)
+  - [IDE install windows](#for-windows)
   - [start up key](#start-up-key)
   - [Copy key](#Copy-key)
   - [Login account NXP.COM](#Login-account-NXP.COM)
@@ -15,13 +15,13 @@
 
 # [Install IDE](https://www.nxp.com/)
 
-## for linux
+## IDE install linux
 
 ![](001.jpg)
  
 ![](002.jpg)
 
-## for windows
+## IDE install windows
 
 ## start up key
 

@@ -9,7 +9,7 @@
   - [Login account NXP.COM](#Login-account-NXP.COM)
   - [Paste the KEY, and paste the KEY returned by the system to the IDE](#Paste-the-KEY-and-paste-the-KEY-returned-by-the-system-to-the-IDE)
   - [The following screen is displayed, the key activation is successful](#The-following-screen-is-displayed-the-key-activation-is-successful)
-- [install LPCScrypt v2.1.1 J-LINK Downloads](#install-LPCScrypt-v2.1.1-J-LINK-Downloads)
+  - [install LPCScrypt v2.1.1 J-LINK Downloads](#install-LPCScrypt-v2.1.1-J-LINK-Downloads)
 ---
 
 

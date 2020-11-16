@@ -1,4 +1,4 @@
-# Lpcxpress for windows
+# Lpcxpress install
 
 ## Contents
 - [Install IDE](#Install-IDE)

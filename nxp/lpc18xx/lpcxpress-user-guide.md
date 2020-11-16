@@ -4,8 +4,7 @@
  
 ![](https://i.imgur.com/Du6Y9pz.jpg)
 
-## 啟動金鑰
-
+## start up key
 
 ![](https://i.imgur.com/eR3OIKw.png)
 
@@ -13,7 +12,7 @@
 
 ![](https://i.imgur.com/afOie0v.png)
 
-### 登入帳號 NXP.COM 
+### Login account NXP.COM 
 
 * ![](https://i.imgur.com/ApBNWdX.png)
 

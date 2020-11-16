@@ -1,7 +1,7 @@
 # Lpcxpress for windows
 
 ## Contents
-- [Install IDE](#Install IDE)
+- [Install IDE](#Install-IDE)
   - [start up key](#start-up-key)
   - [Copy key](#Copy-key)
   - [Login account NXP.COM](#Login-account-NXP.COM)

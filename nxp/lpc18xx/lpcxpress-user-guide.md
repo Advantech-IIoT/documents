@@ -1,16 +1,16 @@
 # [Install IDE](https://www.nxp.com/)
 
-![](https://i.imgur.com/2sXyMdv.jpg)
+![](001.jpg)
  
-![](https://i.imgur.com/Du6Y9pz.jpg)
+![](002.jpg)
 
 ## start up key
 
-![](https://i.imgur.com/eR3OIKw.png)
+![](003.png)
 
 ## Copy key
 
-![](https://i.imgur.com/afOie0v.png)
+![](004.png)
 
 ## Login account NXP.COM 
 

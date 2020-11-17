@@ -12,7 +12,7 @@
     
     - DEBUG_SEMIHOSTING or DEBUG_UART LPC_USART0 annotation Cancel, you can check the log internally
 
-* ![](001.jpg)
+![](001.jpg)
 
 
 ### DEBUG UART
@@ -75,3 +75,22 @@ void Board_UART_Init(LPC_USART_T *pUART)
 ```
 
 * ![](https://i.imgur.com/xZJj4aM.png)
+## CPAN Install
+
+* sudo apt-get install libyaml-appconfig-perl
+
+* sudo apt-get install build-essential
+
+* sudo apt-get install libterm-readline-gnu-perl
+
+su -
+
+cpan
+
+cpan> install Bundle::CPAN
+
+cpan> install Device::SerialPort
+
+cpan> reload cpan
+
+cpan> exit

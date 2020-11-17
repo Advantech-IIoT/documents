@@ -1,5 +1,18 @@
 # NXP 1837
 
+## Contents
+- [Requires ISP mode](#Requires-ISP-mode)
+- [GDB Console](#GDB-Console)
+   - [DEBUG_SEMIHOSTING](#DEBUG_SEMIHOSTING)
+   - [DEBUG UART](#DEBUG-UART)
+ -[GPIO SET](#GPIO-SET)
+   - [GPIO PINSET](#GPIO-PINSET)
+   - [read GPIO](#read-GPIO)
+ -[I2C-Fast-modo](#I2C-Fast-modo)
+ -[CPAN Install](#CPAN-Install)
+ -[Estrada board](#Estrada-board)
+---
+
 ## Requires ISP mode
     * Flash Magic(windows)
     * lpc21isp(Linux)
@@ -34,7 +47,9 @@ void Board_UART_Init(LPC_USART_T *pUART)
 }
 ```
 
-## GPIO SETUP
+## GPIO SET
+
+### GPIO PINSET
 
 * Chip_SCU_PinMuxSet
 * Chip_GPIO_SetPinState
@@ -97,7 +112,7 @@ cpan> reload cpan
 cpan> exit
 ```
 
-## 
+## Estrada board
 
 ![](003.jpg)
 ![](004.jpg)

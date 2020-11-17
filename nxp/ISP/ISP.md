@@ -1,7 +1,7 @@
 # ISP
 
 ## Contents
-- [install lpc21isp FLASH(適用於 LINUX)](#install-lpc21isp-FLASH-(適用於 LINUX))
+- [install lpc21isp FLASH(適用於 LINUX)](#install-lpc21isp-FLASH)
 ---
 
 ## install lpc21isp FLASH(適用於 LINUX)

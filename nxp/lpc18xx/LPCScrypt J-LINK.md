@@ -25,9 +25,9 @@
 
 ![](013.jpg)
 
-## JLINK-LPC
+## J-LINK-LPC
 
-* open JLINL.sh
+* open J-LINKL.sh
 
 ![](014.jpg)
 

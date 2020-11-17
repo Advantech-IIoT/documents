@@ -12,7 +12,7 @@
     
     - DEBUG_SEMIHOSTING or DEBUG_UART LPC_USART0 annotation Cancel, you can check the log internally
 
-![](001.jpg)
+![](000.jpg)
 
 
 ### DEBUG UART
@@ -21,7 +21,7 @@
 
 * DEBUG_SEMIHOSTING annotation in board.h
 
-![](002.jpg)
+![](001.jpg)
 
 * The default uart0 tx pin needs to be modified
 
@@ -74,7 +74,7 @@ void Board_UART_Init(LPC_USART_T *pUART)
 
 ```
 
-* ![](https://i.imgur.com/xZJj4aM.png)
+* ![](002.jpg)
 ## CPAN Install
 
 * sudo apt-get install libyaml-appconfig-perl

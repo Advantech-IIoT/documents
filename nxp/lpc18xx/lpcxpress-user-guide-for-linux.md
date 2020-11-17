@@ -14,6 +14,7 @@
 ![](002.jpg)
 
 # Linux install LPCXpresso IDE
+## Host OS: Ubuntu 16.04 x86_64
 
 * suo apt-get update
 

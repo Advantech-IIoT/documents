@@ -5,12 +5,12 @@
 - [GDB Console](#GDB-Console)
    - [DEBUG_SEMIHOSTING](#DEBUG_SEMIHOSTING)
    - [DEBUG UART](#DEBUG-UART)
- -[GPIO SET](#GPIO-SET)
+ - [GPIO SET](#GPIO-SET)
    - [GPIO PINSET](#GPIO-PINSET)
    - [read GPIO](#read-GPIO)
- -[I2C-Fast-modo](#I2C-Fast-modo)
- -[CPAN Install](#CPAN-Install)
- -[Estrada board](#Estrada-board)
+ - [I2C-Fast-modo](#I2C-Fast-modo)
+ - [CPAN Install](#CPAN-Install)
+ - [Estrada board](#Estrada-board)
 ---
 
 ## Requires ISP mode

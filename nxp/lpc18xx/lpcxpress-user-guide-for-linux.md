@@ -15,7 +15,7 @@
 
 * [到官網註冊帳號，才可以下載 IDE](https://www.nxp.com/)
 
-![](https://i.imgur.com/nJIPaZE.png)
+![](003-3.jpg)
 
 * suo apt-get update
 

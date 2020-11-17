@@ -3,6 +3,7 @@
 ## Contents
 - [Install IDE](#Install-IDE)
   - [IDE install linux](#for-linux)
+- [Linux install LPCXpresso IDE](#Linux-install-LPCXpresso-IDE)
 ---
 
 # [Install IDE](https://www.nxp.com/)
@@ -11,9 +12,7 @@
  
 ![](002.jpg)
 
-### Linux install LPCXpresso IDE
-
-* [到官網註冊帳號，才可以下載 IDE](https://www.nxp.com/)
+# Linux install LPCXpresso IDE
 
 ![](003-3.jpg)
 

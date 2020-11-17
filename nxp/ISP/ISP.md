@@ -14,7 +14,7 @@
 
 * sudo lpc21isp -hex xxx.hex /dev/ttyTHS2 115200 115200
 
-## [github install](https://github.com/cmcqueen/lpc21isp.git)
+## [Github install](https://github.com/cmcqueen/lpc21isp.git)
 
 * git clone https://github.com/cmcqueen/lpc21isp.git
 

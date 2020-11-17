@@ -1,6 +1,5 @@
 # NXP 1837
 
-## usb and uart
 ## Requires ISP mode
     * Flash Magic(windows)
     * lpc21isp(Linux)

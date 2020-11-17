@@ -4,7 +4,8 @@
 - [install lpc21isp FLASH(適用於 LINUX)](#install-lpc21isp-FLASH)
 ---
 
-## install lpc21isp FLASH(適用於 LINUX)
+## install lpc21isp FLASH
+
 
 * sudo apt-get install -y lpc21isp  
 

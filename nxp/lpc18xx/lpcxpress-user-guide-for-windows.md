@@ -12,7 +12,7 @@
   - [J-LINK SWO](#J-LINK-SWO)
   - [IDE burn](#IDE-burn)
   - [IDE ERROR solution](#IDE-ERROR-solution)
-  - [IDE ADD .bin .hex](#IDE-ADD-.bin-.hex)
+  - [IDE add .bin .hex](#IDE-add-.bin-.hex)
 ---
 
 

@@ -7,9 +7,9 @@
 
 # [Install IDE](https://www.nxp.com/)
 
-![](001-1.JPG)
+![](001.jpg)
  
-![](002-2.JPG)
+![](002.JPG)
 
 ### Linux install LPCXpresso IDE
 

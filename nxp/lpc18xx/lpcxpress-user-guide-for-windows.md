@@ -12,6 +12,7 @@
   - [J-LINK SWO](#J-LINK-SWO)
   - [IDE burn](#IDE-burn)
   - [IDE ERROR solution](#IDE-ERROR-solution)
+  - [IDE ADD .bin .hex](#IDE-ADD-.bin-.hex)
 ---
 
 
@@ -73,8 +74,8 @@
 
 ![](022.jpg)
 
-* 解決方式
-    * 拔掉LPC Link 重新接上電腦即可
+* solution
+    * Unplug the LPC Link and reconnect to the computer
 
 ## [IDE ADD .bin .hex](https://mcuoneclipse.com/2017/03/29/mcuxpresso-ide-s-record-intel-hex-and-binary-files/)
 
@@ -85,13 +86,8 @@ arm-none-eabi-objcopy -v -O binary "${BuildArtifactFileName}" "${BuildArtifactFi
 # checksum -p ${TargetChip} -d "${BuildArtifactFileBaseName}.bin"
 ```
 
-![]()
+![](023.jpg)
 
-![]()
+![](024.jpg)
 
-![]()
-
-
-## Flash 調整
-
-![]()
+![](025.jpg)

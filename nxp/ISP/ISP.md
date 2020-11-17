@@ -19,7 +19,7 @@
 
 * make 
 
-* 燒入前，先把nano gpio 62 66 拉hing,燒入的時候再把66拉low，燒入完後62拉low。
+* Before burning, the nano gpio 62 66 should be hinged, nano 66 should be low when burning, nano 62 should be low after burning.
 
 * sudo ./lpc21isp -hex xxx.hex /dev/ttyTHS2 115200 115200
 

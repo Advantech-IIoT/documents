@@ -9,7 +9,7 @@
 
 ![](001.jpg)
  
-![](002.JPG)
+![](002.jpg)
 
 ### Linux install LPCXpresso IDE
 

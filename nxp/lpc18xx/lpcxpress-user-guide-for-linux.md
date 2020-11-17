@@ -14,8 +14,6 @@
 
 # Linux install LPCXpresso IDE
 
-![](003-3.jpg)
-
 * suo apt-get update
 
 * sudo apt-get install gcc-arm-none-eabi

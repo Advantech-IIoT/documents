@@ -6,7 +6,7 @@
 
 ## install lpc21isp FLASH
 
-* Host OS: Ubuntu 16.04 or 18.04 Arm linux
+## Host OS: Ubuntu 16.04 or 18.04 Arm linux
 
 * sudo apt-get install -y lpc21isp  
 

@@ -82,7 +82,7 @@ void Board_UART_Init(LPC_USART_T *pUART)
 * sudo apt-get install build-essential
 
 * sudo apt-get install libterm-readline-gnu-perl
-
+```
 su -
 
 cpan
@@ -94,3 +94,4 @@ cpan> install Device::SerialPort
 cpan> reload cpan
 
 cpan> exit
+```

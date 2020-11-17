@@ -1,7 +1,7 @@
 # LPCscript upgrade LPC-LINK2
 
 ## install  [LPCScrypt v2.1.1 J-LINK Downloads](https://www.nxp.com/design/microcontrollers-developer-resources/lpc-microcontroller-utilities/lpcscrypt-v2-1-1:LPCSCRYPT)
-### drive
+### Drive
 
 * J-Link 
 * CMSIS-DAP

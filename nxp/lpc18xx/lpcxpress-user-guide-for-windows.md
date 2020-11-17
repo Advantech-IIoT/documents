@@ -45,14 +45,3 @@
 ![](009.jpg)
 
 ## [install LPCScrypt v2.1.1 J-LINK Downloads](https://www.nxp.com/design/microcontrollers-developer-resources/lpc-microcontroller-utilities/lpcscrypt-v2-1-1:LPCSCRYPT)
-
-#### LPC-LINK2 drive
-
-* J-Link 
-* CMSIS-DAP
-
-* ![](https://i.imgur.com/VgBBcxU.png)
-
-* ![](https://i.imgur.com/EwdSSKy.png)
-
-* ![](https://i.imgur.com/cwnjhVu.png)

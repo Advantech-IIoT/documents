@@ -19,11 +19,15 @@
 * J7：連接板子的 JTAG/SWD 
 * J8：連接板子的 Trace 在使用 LPCScript 對 LPC-LINK2 更新之前，需要移除板子 JP1 的短路，然後使用 USB 線連接電腦。對於LPCXpresso V2/V3 板子，需要短路 DFU Link
 
-## LPC_SMSIS_DAP
+## LPC_SMSIS_DAP.sh
+
+* open  LPC_SMSIS_DAP.sh
 
 ![](013.jpg)
 
 ## JLINK-LPC
+
+* open JLINL.sh
 
 ![](014.jpg)
 

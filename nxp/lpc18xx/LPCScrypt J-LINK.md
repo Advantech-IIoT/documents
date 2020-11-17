@@ -6,11 +6,11 @@
 * J-Link 
 * CMSIS-DAP
 
-* ![](010.jpg)
+![](010.jpg)
 
-* ![](011.jpg)
+![](011.jpg)
 
-* ![](012.jpg)
+![](012.jpg)
 
 * JP1 短路：從 USB DFU 啟動（如更新 LINK2 ）斷路：版上 SPI flash 啟動 
 * JP2 短路：目标板由 LINK2 供电    斷路：目标板自供电 
@@ -21,12 +21,12 @@
 
 ## LPC_SMSIS_DAP
 
-* ![](013.jpg)
+![](013.jpg)
 
 ## JLINK-LPC
 
-* ![](014.jpg)
+![](014.jpg)
 
 ## LPC_SMSIS_DAP and JLINK-LPC
 
-* ![](015.jpg)
+![](015.jpg)

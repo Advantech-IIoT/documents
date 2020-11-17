@@ -24,6 +24,8 @@
 
 * sudo apt-get install libgtk2.0-0:i386 libpangox-1.0-0:i386 libpangoxft-1.0-0:i386 libidn11:i386 libglu1-mesa:i386 libxtst6:i386
 
+* sudo apt-get install libpangoxft-1.0-0:i386 libidn11:i386 libglu1-mesa:i386 libncurses5:i386 libudev1:i386 libusb-1.0:i386 libusb-0.1:i386 gtk2-engines-murrine:i386 libnss3-1d:i386
+
 * cd /lib/i386-linux-gnu
 
 * sudo ln -sf libudev.so.1 libudev.so.0

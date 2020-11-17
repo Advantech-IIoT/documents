@@ -9,6 +9,9 @@
   - [Paste the KEY, and paste the KEY returned by the system to the IDE](#Paste-the-KEY-and-paste-the-KEY-returned-by-the-system-to-the-IDE)
   - [The following screen is displayed, the key activation is successful](#The-following-screen-is-displayed-the-key-activation-is-successful)
   - [install LPCScrypt v2.1.1 J-LINK Downloads](#install-LPCScrypt-v2.1.1-J-LINK-Downloads)
+  - [J-LINK SWO](#J-LINK-SWO)
+  - [IDE burn](#IDE-burn)
+  - [IDE ERROR solution](#IDE-ERROR-solution)
 ---
 
 
@@ -44,7 +47,7 @@
 
 ![](009.jpg)
 
-### J-LIMK SWO 
+## J-LINK SWO 
 
 * 如果使用J-LIMK驅動的話，Debugger改為JTAG
 
@@ -52,18 +55,17 @@
 
 ![](017.jpg)
 
-### IDE 燒入
+## IDE burn
 
 1. build 
 2. Debug
-3. 第二個步驟過關之後，才會跳LPC-LINK2 CMSIS-DAP
-4. 燒到一半就可以按NXP_SW3
+3. Only after the second step is passed LPC-LINK2 CMSIS-DAP
 
 ![](018.jpg)
 
 ![](019.jpg)
 
-### IDE ERROR，出現下面畫面
+## IDE ERROR solution
 
 ![]()
 

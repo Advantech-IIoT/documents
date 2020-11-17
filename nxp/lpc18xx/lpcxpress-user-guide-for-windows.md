@@ -16,9 +16,9 @@
 
 ## IDE install windows
 
-![](001.jpg)
+![](001-1.jpg)
  
-![](002.jpg)
+![](002-2.jpg)
 
 ## start up key
 

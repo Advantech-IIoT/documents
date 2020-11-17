@@ -4,6 +4,7 @@
 - [Install IDE](#Install-IDE)
   - [IDE install linux](#for-linux)
 - [Linux install LPCXpresso IDE](#Linux-install-LPCXpresso-IDE)
+- [LPCXpresso datasheet](#LPCXpresso-datasheet)
 ---
 
 # [Install IDE](https://www.nxp.com/)
@@ -56,3 +57,23 @@ SWT_GTK3=0 /usr/local/lpcxpresso_8.0.0_526/lpcxpresso/lpcxpresso
 ```
 
 ![](003-3.jpg)
+
+
+## LPCXpresso datasheet
+
+* [LPCXPRESSO: LPCXpresso IDE v8.2.2](https://www.nxp.com/design/microcontrollers-developer-resources/lpc-microcontroller-utilities/lpcxpresso-ide-v8-2-2:LPCXPRESSO)
+
+* [LPCXpresso IDE User Guide](https://www.nxp.com/docs/en/user-guide/LPCXpresso_IDE_User_Guide.pdf)
+
+
+* [LPCXpresso Boards](https://www.nxp.com/design/development-boards/lpcxpresso-boards:LPCXPRESSO-BOARDS)
+
+* [LPCXpresso IDE Installation and Licensing Guide](https://www.nxp.com/docs/en/user-guide/LPCXpresso_IDE_Installation_Guide.pdf)
+
+* [Installing LPCXpresso on Linux](https://community.nxp.com/thread/389036)
+
+* [LPCXpresso IDE SWO Trace Guide](https://www.nxp.com/docs/en/user-guide/LPCXpresso_IDE_SWO_Trace.pdf)
+
+* [LPCScrypt v2.1.1 J-LINK Downloads](https://www.nxp.com/design/microcontrollers-developer-resources/lpc-microcontroller-utilities/lpcscrypt-v2-1-1:LPCSCRYPT)
+
+* [Design Considerations for Debug](https://community.nxp.com/thread/388998)

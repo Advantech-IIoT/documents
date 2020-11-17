@@ -75,6 +75,7 @@ void Board_UART_Init(LPC_USART_T *pUART)
 ```
 
 * ![](002.jpg)
+
 ## CPAN Install
 
 * sudo apt-get install libyaml-appconfig-perl
@@ -95,3 +96,9 @@ cpan> reload cpan
 
 cpan> exit
 ```
+
+## 
+
+* ![](003.jpg)
+* ![](004.jpg)
+* ![](005.jpg)

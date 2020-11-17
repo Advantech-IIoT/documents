@@ -2,6 +2,7 @@
 
 ## Contents
 - [install lpc21isp FLASH](#install-lpc21isp-FLASH)
+- [Github install](#Github-install)
 ---
 
 ## install lpc21isp FLASH
@@ -24,4 +25,5 @@
 
 * sudo ./lpc21isp -hex xxx.hex /dev/ttyTHS2 115200 115200
 
-![](https://i.imgur.com/0QCGeN1.png)
+![](001.jpg)
+![](002.jpg)

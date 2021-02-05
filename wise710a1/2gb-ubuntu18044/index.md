@@ -156,6 +156,6 @@ The `SW2` switch on device, 1: OFF, 2: ON. (Boot from boot loader on SD card)
 
 ### Fig: boot from SPL on SPI flash
 
-<img src="001.jpg" alt="SW2" width="20%" height="20%">
+<img src="https://raw.githubusercontent.com/advantechralph/documents/master/wise710a1/2gb-ubuntu18044/001.jpg" alt="SW2" width="20%" height="20%">
 
 

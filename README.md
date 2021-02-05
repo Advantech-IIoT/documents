@@ -1,4 +1,4 @@
-# [Documents](https://advantechralph.github.io)
+# [Documents](https://advantechralph.github.io/documents/)
 
 ---
 

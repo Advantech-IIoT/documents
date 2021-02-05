@@ -1,8 +1,8 @@
 # Index of Documents
 
-- [MIC-710AI](/documents/mic710ai)
+- [MIC-710AI](https://advantechralph.github.io/documents/mic710ai)
 
-- [WISE-710A1](/documents/wise710a1)
+- [WISE-710A1](https://advantechralph.github.io/documents/wise710a1)
 
 
 

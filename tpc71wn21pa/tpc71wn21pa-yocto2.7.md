@@ -7,9 +7,9 @@
 - Hardware: Advantech TPC71WN21PA
 - CPU: i.MX6Q / RAM: DDR3 2GB
 - Manifest base: imx-4.19.35-1.1.0.xml
+- [Githib image builder source](https://github.com/advantechralph/yocto-local/tree/project/tpc71wn21pa-warrior)
 
 ---
-
 
 ## Build Image
 
@@ -63,6 +63,76 @@ Then, follow the prompt to write the image into sdcard.
 
 ---
 
+## Build toolchain
+
+```bash=
+$ make toolchain
+```
+
+For the toolchian self-installation script, please refer to the sdk in `Path information` as below. 
+
+---
+
+## Path information
+
+```bash=
+$ make info
+
+# fsl-image-qt5   : qt5 image
+# ...
+# sdk             : sdk file
+# ...
+```
+
+---
+
+## Install SDK toolchain
+
+After use `make info`, you will get the sdk location. You can execute this script to install toolchain on another Ubuntu host environment. 
+
+```bash=
+$ apt-get install xz-utils build-essential python python3 
+$ ~/Download/fsl-imx-x11-glibc-x86_64-meta-toolchain-qt5-cortexa9hf-neon-toolchain-4.19-warrior.sh
+```
+
+Follow the prompt, we install toolchian in the default location `/opt/fsl-imx-x11/4.19-warrior`. 
+For using toolchian, use the command as below to setup compiling environment. 
+
+```bash=
+$ . /opt/fsl-imx-x11/4.19-warrior/environment-setup-cortexa9hf-neon-poky-linux-gnueabi
+```
+
+Check the `$CC` variable. 
+
+```bash=
+$ echo $CC
+arm-poky-linux-gnueabi-gcc -mfpu=neon -mfloat-abi=hard -mcpu=cortex-a9 --sysroot=/opt/fsl-imx-x11/4.19-warrior/sysroots/cortexa9hf-neon-poky-linux-gnueabi
+```
+
+Write a `hello.c` and test to compile it. 
+
+```c=
+#include <stdio.h>
+int main(int argc, char *argv[]){
+  printf("%s, %d:  hello\n", __FUNCTION__, __LINE__);
+  return 0; 
+}
+```
+
+```bash=
+$ $CC -Wall -o hello hello.c
+```
+
+Then, upload `hello` to your tpc71wn21pa and execute it to test, ex: `scp`. 
+
+```bash=
+root@imx6qtpc71wn21pa:~# ./test 
+main, 3: hello
+```
+
+---
+
+<!--
 ## Useful information
 
 ### Offical NXP i.MX6 Yocto project source
@@ -80,8 +150,9 @@ $ DISTRO=<distro name> MACHINE=<machine name> source imx-setup-release.sh -b <bu
 $ cd <build dir>
 ```
 
-
 ---
+
+-->
 
 ## References
 

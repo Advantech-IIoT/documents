@@ -7,7 +7,7 @@
 - Hardware: Advantech TPC71WN21PA
 - CPU: i.MX6Q / RAM: DDR3 2GB
 - Manifest base: imx-4.19.35-1.1.0.xml
-- [Githib image builder source](https://github.com/advantechralph/yocto-local/tree/project/tpc71wn21pa-warrior)
+- [Yocto image builder source on Github](https://github.com/advantechralph/yocto-local/tree/project/tpc71wn21pa-warrior)
 
 ---
 

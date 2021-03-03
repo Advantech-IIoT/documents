@@ -3,6 +3,11 @@
 
 ## Quick Start
 
+### Prereguisites
+
+- Ubuntu 18.04 64bits Host PC or virtual machine
+- Install `docker` packages. 
+
 ### Fetch build package source
 
 ```bash=

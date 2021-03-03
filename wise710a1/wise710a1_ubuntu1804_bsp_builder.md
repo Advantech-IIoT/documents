@@ -32,7 +32,7 @@ $ ls build
 #### For 2GB model
 
 ```bash=
-$ make bsp modelname=wise710a1_2g
+$ make bsp modelname=wise710a1_2G
 $ ls build
 ```
 

@@ -32,7 +32,7 @@ $ sudo apt-get install gawk wget git-core diffstat \
 ### Step 1. Clone image builder from Github
 
 ```bash=
-$ git clone https://github.com/advantechralph/yocto-local.git tpc71wn21pa-warrior
+$ git clone https://github.com/advantechralph/yocto-local.git -b tpc71wn21pa-warrior
 $ cd tpc71wn21pa-warrior
 $ git checkout meta/tpc71wn21pa-warrior
 $ git checkout project/tpc71wn21pa-warrior

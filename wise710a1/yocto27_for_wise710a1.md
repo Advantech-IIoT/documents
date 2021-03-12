@@ -77,6 +77,8 @@ $ YOCTO_WORK_DIR=/root/imx-linux-warrior make prepare
 $ make buildcmdline
 ```
 
+---
+
 ## Write image to SD Card
 
 After you build core-image-full-cmdline image, you can run `make writesd` and follow the prompt

@@ -16,7 +16,7 @@
 Clone the bsp builder from Github repository. 
 
 ```bash=
-$ git clone https://github.com/advantechralph/wise710a1.git
+$ git clone https://github.com/Advantech-IIoT/Ubuntu18.04-WISE-710A1.git
 $ cd wise710a1
 ```
 

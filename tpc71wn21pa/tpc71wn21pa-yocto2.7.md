@@ -7,7 +7,7 @@
 - Hardware: Advantech TPC71WN21PA
 - CPU: i.MX6Q / RAM: DDR3 2GB
 - Manifest base: imx-4.19.35-1.1.0.xml
-- [Yocto image builder source on Github](https://github.com/Advantech-IIoT/Yocto2.7-TPC-71W-N21PA)
+- [Yocto image builder source on Github](https://github.com/Advantech-IIoT/Yocto2.7-TPC-71W-N21PA/tree/project/tpc71wn21pa-warrior)
 
 ---
 
@@ -32,7 +32,7 @@ $ sudo apt-get install gawk wget git-core diffstat \
 ### Step 1. Clone image builder from Github
 
 ```bash=
-$ git clone https://github.com/advantechralph/yocto-local.git -b tpc71wn21pa-warrior
+$ git clone https://github.com/Advantech-IIoT/Yocto2.7-TPC-71W-N21PA.git -b tpc71wn21pa-warrior
 $ cd tpc71wn21pa-warrior
 $ git checkout meta/tpc71wn21pa-warrior
 $ git checkout project/tpc71wn21pa-warrior

@@ -1,2 +1,2 @@
 
-# [UNO-220](https://advantechralph.github.io/uno-220/)
+# [UNO-220](https://advantech-iiot.github.io/documents/uno-220/)

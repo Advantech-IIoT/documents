@@ -11,9 +11,9 @@
 ### Fetch build package source
 
 ```bash=
-$ git clone git@github.com:advantechralph/tpc71w-u16.git
+$ git clone git@github.com:Advantech-IIoT/Ubuntu16-TPC-71W.git
 # or
-$ git clone https://github.com/advantechralph/tpc71w-u16.git
+$ git clone https://github.com/Advantech-IIoT/Ubuntu16-TPC-71W.git
 $ cd tpc71w-u16
 ```
 

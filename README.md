@@ -1,4 +1,4 @@
-# [Documents](https://advantechralph.github.io/documents/)
+# [Documents](https://advantech-iiot.github.io/documents/)
 
 ---
 
@@ -6,13 +6,13 @@
 
 ### ISG
 
-- [MIC-710AI](https://advantechralph.github.io/documents/mic710ai)
+- [MIC-710AI](https://advantech-iiot.github.io/documents/mic710ai)
 
 ### ASG
 
-- [WISE-710A1](https://advantechralph.github.io/documents/wise710a1)
-- [TPC-71W-N21PA](https://advantechralph.github.io/documents/tpc71wn21pa/)
-- [UNO-220](https://advantechralph.github.io/documents/uno220/)
+- [WISE-710A1](https://advantech-iiot.github.io/documents/wise710a1)
+- [TPC-71W-N21PA](https://advantech-iiot.github.io/documents/tpc71wn21pa/)
+- [UNO-220](https://advantech-iiot.github.io/documents/uno220/)
 
 ---
 ###### tags: `docs`

@@ -12,7 +12,7 @@ Install `fsl-imx-x11` in `/opt` on your Ubuntu16.04 or Ubuntu 18.04 host PC or v
 ### Fetch code from github
 
 ```bash=
-$ git clone https://github.com/advantechralph/wise710a1_tpc71w_uboot_kernel.git
+$ git clone https://github.com/Advantech-IIoT/Yocto2.1-ASG-i.mx6.git
 ```
 
 ### Check model information

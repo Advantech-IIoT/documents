@@ -61,7 +61,7 @@ $ git config --global core.editor vim
 #### Clone source
 
 ```
-$ git clone -b project/wise710a1-warrior https://github.com/advantechralph/yocto.git
+$ git clone -b project/wise710a1-warrior https://github.com/Advantech-IIoT/Yocto2.7-WISE-710-A1.git
 ```
 
 ### Set up Yocto's working directory (sstate-cache, tmp, and downloads).  
@@ -215,7 +215,7 @@ $ ssh root@${WISE710A1_IP} sync
 
 ## Build Package 
 
-- [Package Gitub Link](https://github.com/advantechralph/yocto/tree/project/wise710a1-warrior)
+- [Package Gitub Link](https://github.com/Advantech-IIoT/Yocto2.7-WISE-710-A1/tree/project/wise710a1-warrior)
 
 - Package include: 
 

@@ -1,2 +1,2 @@
 
-# [UNO-220](https://advantech-iiot.github.io/documents/uno-220/)
+# [UNO-220](https://github.com/Advantech-IIoT/UNO-220-POE-/wiki)

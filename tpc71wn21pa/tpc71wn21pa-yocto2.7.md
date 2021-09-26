@@ -17,7 +17,7 @@
 
 - Host Setup
     - Recommand Ubuntu 18.04 or later. 
-    - The minimum hard disk space required is about 50 GB. 
+    - It is recommended that at least 120 GB is provided. 
     - Install the essential Yocto Project host packages. 
     - For more detail information , refer to the chapter 3 in [IMX_YOCTO_PROJECT_USERS_GUIDE](https://www.nxp.com/docs/en/user-guide/IMX_YOCTO_PROJECT_USERS_GUIDE.pdf). 
 
@@ -32,10 +32,7 @@ $ sudo apt-get install gawk wget git-core diffstat \
 ### Step 1. Clone image builder from Github
 
 ```bash=
-$ git clone https://github.com/Advantech-IIoT/Yocto2.7-TPC-71W-N21PA.git -b tpc71wn21pa-warrior
-$ cd tpc71wn21pa-warrior
-$ git checkout meta/tpc71wn21pa-warrior
-$ git checkout project/tpc71wn21pa-warrior
+$ git clone git@github.com:Advantech-IIoT/Yocto2.7-TPC-71W-N21PA.git
 ```
 
 ### Step 2. Prepare Yocto building enviroment 
